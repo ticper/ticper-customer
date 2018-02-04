@@ -75,7 +75,7 @@
 					} else {
 
 					}
-					$_SESSION['rcode2'] = '';
+					$_SESSION['rcode2'] = rand(100000, 999999);
 				}
 			?>
 		</div>
